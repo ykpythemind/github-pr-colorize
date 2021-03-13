@@ -1,6 +1,6 @@
 # github-pr-colorize
 
-<a href="https://gyazo.com/6d43f106c79aa12fe350ca15cff00f06"><img src="https://i.gyazo.com/6d43f106c79aa12fe350ca15cff00f06.png" alt="Image from Gyazo" width="730"/></a>
+[![Image from Gyazo](https://i.gyazo.com/116d8977d229b32f1752146ad4f18a92.png)](https://gyazo.com/116d8977d229b32f1752146ad4f18a92)
 
 - Draft PRのアイコンが色覚異常の人間にとって見づらい問題を解消する拡張
 - 以前(2020)にGitHubにリクエストを送ったことがあったが直りそうにない為...
